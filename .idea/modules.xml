@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-study.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-dependencies/spring-cloud-study-dependencies.iml" filepath="$PROJECT_DIR$/spring-cloud-study-dependencies/spring-cloud-study-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-parent/spring-cloud-study-parent.iml" filepath="$PROJECT_DIR$/spring-cloud-study-parent/spring-cloud-study-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-rabbit/spring-cloud-study-rabbit.iml" filepath="$PROJECT_DIR$/spring-cloud-study-rabbit/spring-cloud-study-rabbit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-rabbit/spring-cloud-study-rabbit-common/spring-cloud-study-rabbit-common.iml" filepath="$PROJECT_DIR$/spring-cloud-study-rabbit/spring-cloud-study-rabbit-common/spring-cloud-study-rabbit-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-rabbit/spring-cloud-study-rabbit-consumer/spring-cloud-study-rabbit-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-study-rabbit/spring-cloud-study-rabbit-consumer/spring-cloud-study-rabbit-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-rabbit/spring-cloud-study-rabbit-dynamic-consumer/spring-cloud-study-rabbit-dynamic-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-study-rabbit/spring-cloud-study-rabbit-dynamic-consumer/spring-cloud-study-rabbit-dynamic-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-rabbit/spring-cloud-study-rabbit-dynamic-producer/spring-cloud-study-rabbit-dynamic-producer.iml" filepath="$PROJECT_DIR$/spring-cloud-study-rabbit/spring-cloud-study-rabbit-dynamic-producer/spring-cloud-study-rabbit-dynamic-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-study-rabbit/spring-cloud-study-rabbit-producer/spring-cloud-study-rabbit-producer.iml" filepath="$PROJECT_DIR$/spring-cloud-study-rabbit/spring-cloud-study-rabbit-producer/spring-cloud-study-rabbit-producer.iml" />
+    </modules>
+  </component>
+</project>
